@@ -34,6 +34,10 @@ Ultimate Pinterest Bots - Full Auto Pilot Money Machine - Mesin Otomatis Untuk C
 <li>Jalankan PINBOT dengan membuka http://localhost/pin di browser apa saja</li>
 <li>Pilih Bot sesuai kebutuhan</li>
 	</ul>
+<h2>TIPS</h2>
+<ul>
+	<li>Jika PINBOT Sudah berjalan, harap restart koneksi internet sekitar 2 jam sekali untuk mendapatkan IP address baru</li>
+	</ul>
 	
 <h2>Ketentuan dan Pengembang</h2>
 <ul>
