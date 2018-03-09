@@ -27,9 +27,10 @@ Ultimate Pinterest Bots - Full Auto Pilot Money Machine - Mesin Otomatis Untuk C
 <li>Start Xampp control panel,.. dan klik start pada apache</li>
 <li>Edit max_execution_time di xampp apache, caranya: Buka xampp - apache - config- PHP(php.ini) - CTR+F masukkan max_execution_time - find - ganti angka 30 menjadi 3000</li>
 <li>Buat folder pin di C:/xampp/htdocs/ </li>
+	<li>Delete folder pin di C:/xampp/htdocs/ jika sebelumnya sudah ada</li>
 <li>Download PINBOT  di sini https://github.com/de2wa/PINBOT/archive/master.zip</li>
 <li>Extract master.zip di C:/xampp/htdocs</li>
-	<li>ganti hasil extract "PINBOT-master" menjadi "PINBOT"</li>
+	<li>ganti folder hasil extract "PINBOT-master" menjadi "pin"</li>
 <li>Jalankan PINBOT dengan membuka http://localhost/PINBOT di browser apa saja</li>
 <li>Pilih Bot sesuai kebutuhan</li>
 	</ul>
