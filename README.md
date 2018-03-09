@@ -2,7 +2,7 @@
 AutopilotPIN
 <h1>ULTIMATE PINBOT V.2.0</h1>
 Ultimate Pinterest Bots - Full Auto Pilot Money Machine - Mesin Otomatis Untuk CPA, CPS, CPI dan Lainnya.
-
+<img src="https://raw.githubusercontent.com/de2wa/PINBOT/master/pin.png" alt="PINBOT">
 
 <h2>Fitur</h2>
 <ul>
