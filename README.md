@@ -30,7 +30,15 @@ Ultimate Pinterest Bots - Full Auto Pilot Money Machine - Mesin Otomatis Untuk C
 <li>Download PNBOT  di sini</li>
 <li>Extract PINBOT.zip di C:/xampp/htdocs/pin</li>
 <li>Jalankan PINBOT dengan membuka http://localhost/pin di browser apa saja</li>
-<li>Pilih Bot sesuai kebutuhan<li>
+<li>Pilih Bot sesuai kebutuhan</li>
 	</ul>
 	
-    
+<h2>Ketentuan dan Pengembang</h2>
+<ul>
+	<li> Pinbot ini digunakan untuk menghasilkan dollar dari CPA, CPS, dan bisnis online lainnya</li>
+	<li>Pinbot ini boleh digunakan oleh siap saja, untuk uji coba dan keperluan lainnya</li> 
+	<li>hasil earning, sudah di setting untuk network tertentu</li>
+	<li>Jika ingin mendapatkan earning dari pinbot ini, silahkan hubungi: facebook.com/de2wahyudin </li>
+	<li>Pertanyaan dan Saran silahkan hubungi facebook.com/de2wahyudin </li>
+	
+</ul>
