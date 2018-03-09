@@ -31,7 +31,7 @@ Ultimate Pinterest Bots - Full Auto Pilot Money Machine - Mesin Otomatis Untuk C
 <li>Download PINBOT  di sini https://github.com/de2wa/PINBOT/archive/master.zip</li>
 <li>Extract master.zip di C:/xampp/htdocs</li>
 	<li>ganti folder hasil extract "PINBOT-master" menjadi "pin"</li>
-<li>Jalankan PINBOT dengan membuka http://localhost/PINBOT di browser apa saja</li>
+<li>Jalankan PINBOT dengan membuka http://localhost/pin di browser apa saja</li>
 <li>Pilih Bot sesuai kebutuhan</li>
 	</ul>
 	
