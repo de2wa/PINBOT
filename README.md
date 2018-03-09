@@ -20,4 +20,17 @@ Ultimate Pinterest Bots - Full Auto Pilot Money Machine - Mesin Otomatis Untuk C
 		<li>Auto PING to Google</li>
 		<li>Unlimited Account - Terus berlanjut setalah selesai akun pertama - selama tidak di close dari browser</li>
 		</ul>
-    <h2>ALAT YANG PERLU DISIAPKAN</h2>
+<h2>Instalasi dan Alat yang diperlukan</h2>
+<ul>
+<p>Pinbot ini berbasis ini berbasis server lokal, sehingga membutuhkan alat-alat sebagai berikut:</p>
+<li>Install Xampp, pilih  yang php 5.6 .. download di sini https://www.apachefriends.org/download.html</li>
+<li>Start Xampp control panel,.. dan klik start pada apache</li>
+<li>Edit max_execution_time di xampp apache, caranya: Buka xampp - apache - config- PHP(php.ini) - CTR+F masukkan max_execution_time - find - ganti angka 30 menjadi 3000</li>
+<li>Buat folder pin di C:/xampp/htdocs/ </li>
+<li>Download PNBOT  di sini</li>
+<li>Extract PINBOT.zip di C:/xampp/htdocs/pin</li>
+<li>Jalankan PINBOT dengan membuka http://localhost/pin di browser apa saja</li>
+<li>Pilih Bot sesuai kebutuhan<li>
+	</ul>
+	
+    
