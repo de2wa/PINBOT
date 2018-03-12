@@ -22,7 +22,7 @@ class Registration extends Form
     /**
      * @var string
      */
-    protected $country = 'GB';
+    protected $country = 'US';
 
     /**
      * @var string
