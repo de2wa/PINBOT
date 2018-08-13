@@ -46,5 +46,6 @@ Ultimate Pinterest Bots - Full Auto Pilot Money Machine - Mesin Otomatis Untuk C
 	<li>hasil earning, sudah di setting untuk network tertentu</li>
 	<li>Jika ingin mendapatkan earning dari pinbot ini, silahkan hubungi: facebook.com/de2wahyudin </li>
 	<li>Pertanyaan dan Saran silahkan hubungi facebook.com/de2wahyudin </li>
+	<li>Tips lainnya di www.de2wa.com </li>
 	
 </ul>
